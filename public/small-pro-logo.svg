@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" fill="none">
+  <rect width="64" height="64" rx="18" fill="#0F2B55"/>
+  <path d="M18 43V21h15.5c5.4 0 8.7 2.7 8.7 7.1 0 3.1-1.8 5.3-4.8 6.2l6.4 8.7h-8.4l-5.4-7.7h-4.7V43H18Zm7.3-13.2H33c1.2 0 2-.6 2-1.7s-.8-1.7-2-1.7h-7.7v3.4Z" fill="#38BDF8"/>
+  <path d="M45.5 43V21h7.3v22h-7.3Z" fill="white"/>
+  <text x="78" y="30" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#0F172A">Small Pro</text>
+  <text x="78" y="50" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#0284C7">ERP SYSTEM</text>
+</svg>

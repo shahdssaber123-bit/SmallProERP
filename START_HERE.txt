@@ -1,0 +1,12 @@
+SmallPro ERP V35 Full Size Project
+
+1) Make sure the .NET backend is running at:
+   https://localhost:7057/api
+
+2) Double-click RUN_WINDOWS.bat
+   - If node_modules is missing, the script extracts node_modules_bundle.tar.
+   - Then it runs npm run dev.
+
+3) If Windows blocks the bundled dependencies, run RUN_WINDOWS_CLEAN_INSTALL.bat.
+
+Build was verified with: vite build

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+*.log
+.env
+*.tar
+*.zip
+
+# Vite / React
+.vite/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
